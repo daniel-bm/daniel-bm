@@ -5,7 +5,7 @@
 
 ##
 
-- 🎓 Studying **Software Engineering** at Universidade de Brasília
+- 🎓 Graduated in **Software Engineering** at Universidade de Brasília
 - 🎓 Graduated in **English Language** at CCAA
 - 💻 Currently studying Full-Stack development, focusing on __Javascript__.
 
